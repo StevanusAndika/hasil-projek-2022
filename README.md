@@ -17,7 +17,7 @@ https://stevanusandika.github.io/Stev-Store/
 5.animasi typing(jQuery CSS):
 https://stevanusandika.github.io/latihan-css/index.html
 
-6.animasi gerhana bula/matahari:
+6.animasi gerhana bulan/matahari:
 https://stevanusandika.github.io/latihan-css/Gerhana-bulan.html
 
 
