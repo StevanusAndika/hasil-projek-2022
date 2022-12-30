@@ -1,6 +1,5 @@
-# hasil-projek-2022
 Hasil karya saya selama Tahun 2022
-Hasil projek 2022:
+
 
 1.portofolio talwind(bahasa Indonesia):
 https://stevanusandika.github.io/Portfolio-Stevanus/
@@ -44,3 +43,11 @@ http://www.portfolioku.byethost7.com/upload.php
 
 14.Form PHP html
    http://portfolioku.byethost7.com/form.php
+
+15.website pencari judul film
+   (Menggunakan OMDb API)
+   http://portofolio-stev.epizy.com/?i=1
+
+16.Aplikasi android  list buku favorit
+   https://bit.ly/3IdNwBM
+ 
